@@ -11,5 +11,12 @@ It was Pierre-Henri's idea! Anyway, the point is:
 	- Simple stuff, like hook up speakers to it and use it as a music player... or
 	- Build your own Hardware! Connect buttons, lights, a small screen, etc!
 
+
 ### OK I guess that's cool... What might I build with this?
 
+Here's some ideas!
+
+## What IS all this stuff??
+
+| Item | Purpose|
+| 1x Raspberry Pi | A single-board 1Ghz quad-core computer! |

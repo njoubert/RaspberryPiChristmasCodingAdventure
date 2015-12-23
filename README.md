@@ -17,6 +17,15 @@ Here's what's in the box:
 | Case and Power Supply       | Put the Pi in it, and power it up! |
 | 16GB MicroSD Card           | This is the "hard drive" for your Pi! We'll put Linux on this. |
 | SILabs USB to UART Bridge   | We can use this to connect to the Pi from our normal computer, when we don't have a screen or a ethernet cable for the Pi. |
+| T-Cobbler                   | A simple way to connect the Pi to a breadboard to hook up electronics! |
+| Breadboard                  | Build electronic circuits simply by pushing components into this! |
+| Assorted Jumper Cables      | Hook things up together! |
+| Buttons!                    | Program these to do something on click! |
+| R,G,B,W LEDs!               | Light them up from your code! |
+| 7-segment display!          | Display numbers from your code! Temperature? Latency? Unread emails? Anything! |
+| 1k and 10k Resistors!       | You need these to hook up LEDs and Buttons! |
+| 2N3904 Transistors!         | General purpose digital switch and amplifier! Use it to switch on and off larger stuff from the Pi. You can build a touch switch with it! |
+
 
 
 

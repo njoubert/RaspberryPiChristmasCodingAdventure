@@ -13,7 +13,7 @@ Here's what's in the box:
 
 | What is it?                 | What's it for?? |
 |-----------------------------|-----------------|
-| 1x Raspberry Pi 2 (Model B) | A single-board 1Ghz quad-core computer with 1GB Ram! <br/> HDMI, Ethernet and USB! 40-pin "GPIO" (General Purpose Input Output) connector for custom hardware! |
+| 1x Raspberry Pi 2 (Model B) | A single-board 1Ghz quad-core computer with 1GB Ram! HDMI, Ethernet and USB! 40-pin "GPIO" (General Purpose Input Output) connector for custom hardware! |
 | Case and Power Supply       | Put the Pi in it, and power it up! |
 | 16GB MicroSD Card           | This is the "hard drive" for your Pi! We'll put Linux on this. |
 | 

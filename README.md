@@ -18,5 +18,6 @@ Here's some ideas!
 
 ## What IS all this stuff??
 
-| Item | Purpose|
+| Item | Purpose |
+|------|---------|
 | 1x Raspberry Pi | A single-board 1Ghz quad-core computer! |

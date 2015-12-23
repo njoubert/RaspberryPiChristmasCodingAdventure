@@ -2,7 +2,7 @@
 
 The Joubert family all gets Raspberry Pi computers for Christmas, and embarks on a *Coding Adventure!*
 
-## What??? What the...?? What IS all this stuff?? Where's the Candy??
+### What??? What the...?? What IS all this stuff?? Where's the Candy??
 
 1. I just gave all you guys **real computers!**. It can do everything your laptop can do!
 2. You can actually build stuff with it! 

@@ -13,10 +13,10 @@ Here's what's in the box:
 
 | What is it?                 | What's it for?? |
 |-----------------------------|-----------------|
-| 1x Raspberry Pi 2 (Model B) | A single-board 1Ghz quad-core computer with 1GB Ram! HDMI, Ethernet and USB! 40-pin "GPIO" (General Purpose Input Output) connector for custom hardware! |
+| 1x Raspberry Pi 2 (Model B) | A single-board 1Ghz quad-core computer with 1GB Ram! |
 | Case and Power Supply       | Put the Pi in it, and power it up! |
 | 16GB MicroSD Card           | This is the "hard drive" for your Pi! We'll put Linux on this. |
-| 
+| SILabs USB to UART Bridge   | We can use this to connect to the Pi from our normal computer, when we don't have a screen or a ethernet cable for the Pi. |
 
 
 

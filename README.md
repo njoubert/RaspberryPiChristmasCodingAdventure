@@ -13,9 +13,10 @@ Here's what's in the box:
 
 | What is it?                 | What's it for?? |
 |-----------------------------|-----------------|
-| 1x Raspberry Pi 2 (Model B) | A single-board 1Ghz quad-core computer with 1GB Ram! |
+| 1x Raspberry Pi 2 (Model B) | A single-board 1Ghz quad-core computer with 1GB Ram! HDMI, Ethernet and USB onboard! |
 | Case and Power Supply       | Put the Pi in it, and power it up! |
-| 16GB MicroSD Card           | This is the "hard drive" for your Pi! We'll put Linux on this |
+| 16GB MicroSD Card           | This is the "hard drive" for your Pi! We'll put Linux on this. |
+| 
 
 
 

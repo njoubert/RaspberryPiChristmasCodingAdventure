@@ -12,7 +12,7 @@ The Joubert family all gets Raspberry Pi computers for Christmas, and embarks on
 Here's what's in the box:
 
 |Img| What is it?                 | What's it for?? |
-|-00 |-----------------------------|-----------------|
+|---|-----------------------------|-----------------|
 |![rpi](https://raw.githubusercontent.com/njoubert/JoubertFamilyChristmasCodingAdventure/master/images/01_rpi.jpg) | 1x Raspberry Pi 2 (Model B) | A single-board 1Ghz quad-core computer with 1GB Ram! |
 | a | Case and Power Supply       | Put the Pi in it, and power it up! |
 | a | 16GB MicroSD Card           | This is the "hard drive" for your Pi! We'll put Linux on this. |

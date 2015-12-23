@@ -2,7 +2,7 @@
 
 The Joubert family all gets Raspberry Pi computers for Christmas, and embarks on a *Coding Adventure!*
 
-## What the hell Niels, what kind of Christmas gift is this crap? Now what??
+## What the hell Niels, what kind of Christmas gift is this? Now what??
 
 It was Pierre-Henri's idea! Anyway, the point is:
 

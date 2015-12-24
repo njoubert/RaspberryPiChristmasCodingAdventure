@@ -27,7 +27,7 @@ A big part of building stuff is having inspiration and a community to draw from.
 
 - [Hackaday, both the blog and the whole site](https://hackaday.com/blog/)
 - [Dangerous Prototypes](http://dangerousprototypes.com/)
-- 
+
 
 ### Useful testing tools...
 

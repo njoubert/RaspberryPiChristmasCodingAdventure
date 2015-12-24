@@ -11,7 +11,7 @@ The Joubert family gets Raspberry Pi computers for Christmas, and embarks on a *
 
 **Yup, we're going to spend Christmas building something!**
 
-## OK I guess that's cool... What can I build?
+### OK I guess that's cool... What can I build?
 
 We can built *lots* of stuff. But that's not a useful answer. The RaspberryPi is *primarily an educational tool*, but it's beefy enough to do tons of real-world stuff. So, here's the *capabilities* of this little kit:
 

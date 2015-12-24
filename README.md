@@ -19,11 +19,27 @@ The **RaspberryPi** is a quad-core 1Ghz computer, with 1Gb RAM and a 16GB SD car
 
 It also has **100Mbps ethernet and four USB2.0 ports**. So you can plug in (multiple!) external hard drives, and you can use it as a file server. It can share four hard-drives on your network. It's also powerful enough to run a webserver! You can host your own website on it. Or use it to torrent things! You can even leave it plugged into the university's network at school, and use it as a file server. Log into it remotely, and download things over the fast school internet. Host a minecraft server! Host an IRC chat server! Host a Tor node for anonymous browsing! Naturally, you can plug in many USB devices! Plug in a webcam and use it as a remote monitor!
 
-You can power it from batteries (I can help you set this up), and it's reasonable to imagine getting 5 to 10 hours of battery life from it.
+You can **power it from batteries** (I can help you set this up), and it's reasonable to imagine getting 5 to 10 hours of battery life from it.
 
-It runs **linux or android** so you can learn how to work with a linux system. 
+It runs **linux or android** so you can learn how to work with a linux system. It's a really great **machine for programming**: Use it to learn how to program all kinds of stuff in Python: For example, use PyGame to write your own game!
 
-It's a really great **machine for programming**: 
+....
+
+Most importantly, it's **highly extensible!**
+
+- You can buy any size (from tiny to huge) LCD touchscreen on eBay, and [build your own tablet!](https://learn.adafruit.com/7-portable-raspberry-pi-multitouch-tablet/overview)
+- You can *build your own hardware* that connects to the GPIO pins on the side! 
+	- Buttons, switches, LEDs, and LED matrices! 
+	- Stepper motors, DC motors, servos! Things that turn!
+	- Accelerometers, Magnetometers, Gyroscopes, Barometers, Thermometers! Tons of sensors that measure the real word!
+
+You can make a weather station that displays the current temperature and the chance of rain. Or measure the current internet ping latency and light up a row of LEDs accordingly. You can have it check your email for you, and light up an LED for every unread message - and beep every time a new message arrives! 
+
+There's a whole range of **RaspberryPi HATs** that sit on top of the Raspberry Pi to give you additional functionalty! My favorite is the [Sense HAT](https://www.raspberrypi.org/blog/the-sense-hat-headgear-for-the-terminally-curious/)! It's currently in *space* on the ISS, and it has a ton of sensors, a small joystick, and a badass 8x8 RGB LED display matrix, so you can make cool animations.
+
+You can pair it with **LED controllers** (like the [PixelPusher](http://www.heroicrobotics.com/products/pixelpusher)) and make an LED wall, or a starry night sky on the ceiling of your room!
+
+Hook it up to a Passive Infrared Sensor, and it can sense when someone is moving in your room - regardless of whether the light is on! Build a security system!
 
 ### Cool communities / places to look
 
@@ -34,10 +50,20 @@ A big part of building stuff is having inspiration and a community to draw from.
 
 ### CURRICULUM / RESOURCES:
 
+The main programming languages I suggest is **Python** and **C**. Use Python for all the experiments and hacking, use C for things that needs to be fast or needs to run *without an operating system: bare meta right on the hardware!*
+
 - Pat's CS107e [Raspberry Pi Course Guides](https://github.com/cs107e/courseware/blob/master/guides/README.md)
+	- For hardware, [understand basic electricity](https://github.com/cs107e/courseware/blob/master/guides/electricity.md)
+	- Learn the (UNIX command line)[https://github.com/cs107e/courseware/blob/master/guides/unix.md]
+- Learn basic Python!
+	- [Instant Hacking with Python! Short, covers all the main stuff!](http://hetland.org/writing/instant-hacking.html)		- [Automate the boring stuff with Python! Lots of great useful things to build](https://automatetheboringstuff.com/)
+	- [A Gentle Introduction to Python Coding on the Raspberry Pi](http://davidbriddock.blogspot.com/p/learn-python.html)
+	- [Basic hardware programming with Python](http://makezine.com/projects/tutorial-raspberry-pi-gpio-pins-and-python/)
+
+	
 
 ### What's in the Box?
-
+	
 Each of you have slight variations on this, but here's the list of everything! 
 
 |Img| What is it?                 | What's it for?? |

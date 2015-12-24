@@ -1,6 +1,6 @@
 # The Joubert Family's Christmas Coding Adventure!
 
-The Joubert family all gets Raspberry Pi computers for Christmas, and embarks on a *Coding Adventure!*
+The Joubert family gets Raspberry Pi computers for Christmas, and embarks on a *Coding Adventure!*
 
 ### What??? What the...?? What IS all this stuff?? Where's the Candy??
 
@@ -9,17 +9,21 @@ The Joubert family all gets Raspberry Pi computers for Christmas, and embarks on
 	- Simple stuff, like hook up speakers to it and use it as a music player... or
 	- Build your own Hardware! You can connect buttons, lights, a small screen, etc!
 
-
-
-### What the hell Niels, what kind of Christmas gift is this? Now what?
-
-It was Pierre-Henri's idea! Anyway, the point is:
-
-
-Here's some ideas!
-
+**Yup, we're going to spend Christmas building something!**
 
 ## OK I guess that's cool... What can I build?
+
+We can built *lots* of stuff. But that's not a useful answer. The RaspberryPi is *primarily an educational tool*, but it's beefy enough to do tons of real-world stuff. So, here's the *capabilities* of this little kit:
+
+The **RaspberryPi** is a quad-core 1Ghz computer, with 1Gb RAM and a 16GB SD card for storage. It has a **fast graphics card** on it (for its size) that can decode 1080p movies to your big screen (1920x1080 maximum resolution). So, you can definitely play movies, netflix, youtube, all that kinds of stuff on here. 
+
+It also has **100Mbps ethernet and four USB2.0 ports**. So you can plug in (multiple!) external hard drives, and you can use it as a file server. It can share four hard-drives on your network. It's also powerful enough to run a webserver! You can host your own website on it. Or use it to torrent things! You can even leave it plugged into the university's network at school, and use it as a file server. Log into it remotely, and download things over the fast school internet. Host a minecraft server! Host an IRC chat server! Host a Tor node for anonymous browsing! Naturally, you can plug in many USB devices! Plug in a webcam and use it as a remote monitor!
+
+You can power it from batteries (I can help you set this up), and it's reasonable to imagine getting 5 to 10 hours of battery life from it.
+
+It runs **linux or android** so you can learn how to work with a linux system. 
+
+It's a really great **machine for programming**: 
 
 ### Cool communities / places to look
 
@@ -28,6 +32,9 @@ A big part of building stuff is having inspiration and a community to draw from.
 - [Hackaday, both the blog and the whole site](https://hackaday.com/blog/)
 - [Dangerous Prototypes](http://dangerousprototypes.com/)
 
+### CURRICULUM / RESOURCES:
+
+- Pat's CS107e [Raspberry Pi Course Guides](https://github.com/cs107e/courseware/blob/master/guides/README.md)
 
 ### What's in the Box?
 

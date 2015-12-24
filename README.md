@@ -39,12 +39,15 @@ There's a whole range of **RaspberryPi HATs** that sit on top of the Raspberry P
 
 You can pair it with **LED controllers** (like the [PixelPusher](http://www.heroicrobotics.com/products/pixelpusher)) and make an LED wall, or a starry night sky on the ceiling of your room!
 
+You can hook up a **motor controller** and build a 2D cutter that slices up paper into shapes! Or moves a pen around to draw things programmatically! You can even build a **[robot](https://www.raspberrypi.org/blog/tag/robots/)!** A super-fancy robot would be a **[rubix cube solver](https://www.raspberrypi.org/blog/cube-solver/)**!
+
 Hook it up to a Passive Infrared Sensor, and it can sense when someone is moving in your room - regardless of whether the light is on! Build a security system!
 
 ### Cool communities / places to look
 
 A big part of building stuff is having inspiration and a community to draw from. Here's some great places that's fun to look at people's projects online:
 
+- [Raspberry Pi Blog](https://www.raspberrypi.org/blog/)
 - [Hackaday, both the blog and the whole site](https://hackaday.com/blog/)
 - [Dangerous Prototypes](http://dangerousprototypes.com/)
 

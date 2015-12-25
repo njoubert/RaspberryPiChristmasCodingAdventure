@@ -51,7 +51,7 @@ Check out Pat's course CS107E, it has a [guide to basic electronics with the Ras
 3	Install a serial console on your computer, like [CoolTerm](http://freeware.the-meiers.org/)
 4	[Write a Raspberry Pi program to send and receive serial data](http://www.instructables.com/id/Read-and-write-from-serial-port-with-Raspberry-Pi/), and see if it shows up on your laptop.
 
-**Ste
+**Step 5:** Read the rest of this page, and check out the "Cool communities and places to look" or google for "Raspberry Pi projects"!
 
 ### OK I guess that's cool... What can I build?
 

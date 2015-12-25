@@ -29,7 +29,7 @@ Raspberry Pi has a [quickstart guide here.](https://www.raspberrypi.org/help/qui
 
 **Step 2:** Plug your Raspberry Pi into a monitor, keyboard, mouse and power! Then follow the NOOBS installer to install Raspbian (a derivative of Debian Linux, just like Ubuntu)
 
-**Step 3:** [Try to make a little circuit with an LED, and use python to turn it on and off!](http://openmicros.org/index.php/articles/94-ciseco-product-documentation/raspberry-pi/217-getting-started-with-raspberry-pi-gpio-and-python)
+**Step 3:** Let's do some [Physical Computing on the Raspberry Pi!](https://www.raspberrypi.org/documentation/usage/gpio-plus-and-raspi2/) Try to make a little circuit with an LED, and [use python to turn it on and off using the GPIO pins!](http://openmicros.org/index.php/articles/94-ciseco-product-documentation/raspberry-pi/217-getting-started-with-raspberry-pi-gpio-and-python)
 
 Expand it to also read the value of buttons!
 

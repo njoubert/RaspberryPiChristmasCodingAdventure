@@ -68,6 +68,8 @@ Python is not great for driving Servos (and Linux in general isn't!) since it do
 
 You can do better than python by using this [ServoBlaster Kernel Module](https://github.com/richardghirst/PiBits/tree/master/ServoBlaster) or by connecting it to an Arduino or a [Motor Shield / HAT](https://www.adafruit.com/products/2348)
 
+The BEST you can do is to use hardware PWM. RaspberryPi has *one* dedicated little chip just to make PWM signals. This tutorial explains how to [use WiringPi to access this port.](http://raspi.tv/2013/how-to-use-wiringpi2-for-python-with-pull-ups-or-pull-downs-and-pwm)
+
 **Step 7:** Read the rest of this page, and check out the "Cool communities and places to look" or google for "Raspberry Pi projects"!
 
 ### OK I guess that's cool... What can I build?

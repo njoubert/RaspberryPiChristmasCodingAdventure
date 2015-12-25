@@ -60,7 +60,15 @@ The laser wants a higher voltage and higher current supply than the Raspberry Pi
 
 Follow [This article on how to switch 9v using a NPN transistor](https://electronics.stackexchange.com/questions/95089/switching-9v-using-a-npn-transistor-and-an-arduino) and hook up a higher voltage to your laser!
 
-**Step 6:** Read the rest of this page, and check out the "Cool communities and places to look" or google for "Raspberry Pi projects"!
+**Step 6:** Drive a Servo with PWM!
+
+[Make the servo turn left and right from Python!](http://razzpisampler.oreilly.com/ch05.html)
+
+Python is not great for driving Servos (and Linux in general isn't!) since it doesn't guarantee the *timing* of when things will happen. The same little processor is also driving your screen, mouse, keyboard, the network, keeping time, etc etc.
+
+You can do better than python by using this [ServoBlaster Kernel Module](https://github.com/richardghirst/PiBits/tree/master/ServoBlaster) or by connecting it to an Arduino or a [Motor Shield / HAT](https://www.adafruit.com/products/2348)
+
+**Step 7:** Read the rest of this page, and check out the "Cool communities and places to look" or google for "Raspberry Pi projects"!
 
 ### OK I guess that's cool... What can I build?
 

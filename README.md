@@ -54,7 +54,13 @@ Check out Pat's course CS107E, it has a [guide to basic electronics with the Ras
 
 4	[Write a Raspberry Pi program to send and receive serial data](http://www.instructables.com/id/Read-and-write-from-serial-port-with-Raspberry-Pi/), and see if it shows up on your laptop.
 
-**Step 5:** Read the rest of this page, and check out the "Cool communities and places to look" or google for "Raspberry Pi projects"!
+**Step 5:** Switch the Laser on and off with the Raspberry Pi using transistors!
+
+The laser wants a higher voltage and higher current supply than the Raspberry Pi can provide. This is where you can use the transistor: The transistor is just a switch. A switch you can control electronically. By switching low power on the "base" pin, you can control whether high power flows through the other pins.
+
+Follow [This article on how to switch 9v using a NPN transistor](https://electronics.stackexchange.com/questions/95089/switching-9v-using-a-npn-transistor-and-an-arduino) and hook up a higher voltage to your laser!
+
+**Step 6:** Read the rest of this page, and check out the "Cool communities and places to look" or google for "Raspberry Pi projects"!
 
 ### OK I guess that's cool... What can I build?
 
@@ -121,6 +127,7 @@ The main programming languages I suggest is **Python** and **C**. Use Python for
 
 - Pat's CS107e [Raspberry Pi Course Guides](https://github.com/cs107e/courseware/blob/master/guides/README.md)
 	- For hardware, [understand basic electricity](https://github.com/cs107e/courseware/blob/master/guides/electricity.md)
+	- For using a transistor as a switch, [check this out.](https://electronics.stackexchange.com/questions/95089/switching-9v-using-a-npn-transistor-and-an-arduino)
 	- Learn the (UNIX command line)[https://github.com/cs107e/courseware/blob/master/guides/unix.md]
 - Learn basic Python!
 	- [Instant Hacking with Python! Short, covers all the main stuff!](http://hetland.org/writing/instant-hacking.html)		- [Automate the boring stuff with Python! Lots of great useful things to build](https://automatetheboringstuff.com/)

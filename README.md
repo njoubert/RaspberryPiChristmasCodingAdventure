@@ -23,6 +23,9 @@ Specifically, I gave you guys the newest Raspberry Pi 2! [Here's the Specs](http
 
 ### How do we get started?
 
+**Step 1:** [Copy NOOBS onto the SD card I gave you.](https://www.raspberrypi.org/help/noobs-setup/)
+
+**Step 2:** 
 
 ### OK I guess that's cool... What can I build?
 
@@ -66,17 +69,14 @@ Here's some more ideas:
 
 *Hardware-related:*
 
-Easier:
-
-- Display temperature forecast for today on the 7-segment display
-- Make the buttons send emails, texts, or scroll through different things on the display
-- Measure latency to your favorite server, display it as an LED graph
-- Make a sweet animation of LEDs blinking
-
-Intensely awesome:
-
-- Pair it with an Arduino Mega and RAMPS shield, and build any 3-axis movable CNC machine!
-- Build a 3D Printer
+- Easier:
+- - Display temperature forecast for today on the 7-segment display
+- - Make the buttons send emails, texts, or scroll through different things on the display
+- - Measure latency to your favorite server, display it as an LED graph
+- - Make a sweet animation of LEDs blinking
+- Intensely awesome:
+- - Pair it with an Arduino Mega and RAMPS shield, and build any 3-axis movable CNC machine!
+- - Build a 3D Printer
 
 ### Cool communities / places to look
 

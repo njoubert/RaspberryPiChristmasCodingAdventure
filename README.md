@@ -149,6 +149,7 @@ Each of you have slight variations on this, but here's the list of everything!
 |![rpi](https://raw.githubusercontent.com/njoubert/JoubertFamilyChristmasCodingAdventure/master/images/08_buttons.jpg)   | Buttons!                    | Program these to do something on click! |
 |![rpi](https://raw.githubusercontent.com/njoubert/JoubertFamilyChristmasCodingAdventure/master/images/09_led.jpg)       | R,G,B,W LEDs!               | Light them up from your code! |
 |![rpi](https://raw.githubusercontent.com/njoubert/JoubertFamilyChristmasCodingAdventure/master/images/10_segment.jpg)   | 7-segment display!          | Display numbers from your code! Temperature? Latency? Unread emails? Anything! |
+|   | Micro Servo!          | [Make the servo turn left and right from Python!](http://razzpisampler.oreilly.com/ch05.html) Although an arduino is really better for this, since it can run in real time rather than sitting on top of linux. |
 |![rpi](https://raw.githubusercontent.com/njoubert/JoubertFamilyChristmasCodingAdventure/master/images/11_res.jpg)       | 1k and 10k Resistors!       | You need these to hook up LEDs and Buttons! |
 |![rpi](https://raw.githubusercontent.com/njoubert/JoubertFamilyChristmasCodingAdventure/master/images/12_trans.jpg)     | 2N3904 Transistors!         | General purpose digital switch and amplifier! Use it to switch on and off larger stuff from the Pi. You can build a touch switch with it! |
 

@@ -2,25 +2,67 @@
 
 The Joubert family all gets Raspberry Pi computers for Christmas, and embarks on a *Coding Adventure!*
 
-### What??? What the...?? What IS all this stuff?? Where's the Candy??
+
+### What the hell Niels, what kind of Christmas gift is this? Now what?
 
 1. I just gave all you guys **real computers!**. It can do everything your laptop can do!
 2. You can actually build stuff with it! 
 	- Simple stuff, like hook up speakers to it and use it as a music player... or
 	- Build your own Hardware! You can connect buttons, lights, a small screen, etc!
 
-
-
-### What the hell Niels, what kind of Christmas gift is this? Now what?
-
 It was Pierre-Henri's idea! Anyway, the point is:
 
+### What is the Raspberry Pi?
 
-Here's some ideas!
+It's basically the innards of an iPhone 5, with all the pins exposed! It's built and maintained by the [Raspberry Pi foundation](https://www.raspberrypi.org/) as an educational tool.
 
+- It has a powerful graphics card, can play 1080p video and has HDMI out!
+- It can run either Linux or Android, and is built for easy programming! We'll mess around with Linux and Python!
+- You can easily build your own hardware and attach it! Like buttons, LEDs, the christmas lights, etc...
+- It's the most popular educational computer on the market!
+
+Specifically, I gave you guys the newest Raspberry Pi 2! [Here's the Specs](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/)
+
+
+### How do we get started?
+
+**Check out LET'S GET CODING ON CHRISTMAS DAY!**
 
 ### OK I guess that's cool... What might I build with this?
 
+There is a HUGE community of people doing awesome projects with the Raspberry Pi! 
+
+Thing of these capabilities! You can access any data on the internet, and you have physical buttons and LEDs!
+
+Here's some ideas:
+
+*Multimedia-related:*
+
+- Set it up as Airplay speakers! You can stream music to it from your phone!
+- Use it as a media center! Hook it up to a screen and your external harddrive, and it can play movies!
+
+*Software-related:*
+
+- Use it to run a torrent client to save stuff to your external harddrive without needing your computer
+- Make a digital picture frame! Have it cycle through instagram pictures.
+
+*Hardware-related:*
+
+Easier:
+
+- Display temperature forecast for today on the 7-segment display
+- Make the buttons send emails, texts, or scroll through different things on the display
+- Measure latency to your favorite server, display it as an LED graph
+- Make a sweet animation of LEDs blinking
+
+Intensely awesome:
+
+- Pair it with an Arduino Mega and RAMPS shield, and build any 3-axis movable CNC machine!
+- Build a 3D Printer
+
+#### Some projects people have done with the Raspberry Pi:
+
+https://hackaday.io/projects/tag/raspberry%20pi
 
 ### What's in the Box?
 

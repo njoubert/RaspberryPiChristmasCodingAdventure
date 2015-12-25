@@ -127,6 +127,12 @@ The main programming languages I suggest is **Python** and **C**. Use Python for
 	- [A Gentle Introduction to Python Coding on the Raspberry Pi](http://davidbriddock.blogspot.com/p/learn-python.html)
 	- [Basic hardware programming with Python](http://makezine.com/projects/tutorial-raspberry-pi-gpio-pins-and-python/)
 
+**More Advanced Topics:**
+
+- [Write your own hardware driver for a GPIO pin](http://sysprogs.com/VisualKernel/tutorials/raspberry/leddriver/)
+
+
+
 ### What's in the Box?
 	
 Each of you have slight variations on this, but here's the list of everything! 

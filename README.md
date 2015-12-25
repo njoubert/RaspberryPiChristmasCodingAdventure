@@ -25,9 +25,33 @@ Specifically, I gave you guys the newest Raspberry Pi 2! [Here's the Specs](http
 
 Raspberry Pi has a [quickstart guide here.](https://www.raspberrypi.org/help/quick-start-guide/) 
 
-**Step 1:** [Copy NOOBS onto the SD card I gave you.](https://www.raspberrypi.org/help/noobs-setup/)
+**Step 1:** [Copy NOOBS onto the SD card I gave you using your computer. Then stick it into your Raspberry Pi.](https://www.raspberrypi.org/help/noobs-setup/)
 
-**Step 2:** 
+**Step 2:** Plug your Raspberry Pi into a monitor, keyboard, mouse and power! Then follow the NOOBS installer to install Raspbian (a derivative of Debian Linux, just like Ubuntu)
+
+**Step 3:** [Try to make a little circuit with an LED, and use python to turn it on and off!](http://openmicros.org/index.php/articles/94-ciseco-product-documentation/raspberry-pi/217-getting-started-with-raspberry-pi-gpio-and-python)
+
+Expand it to also read the value of buttons!
+
+	*CAREFUL:* You CAN damage your raspberry pi by connecting the pins incorrectly!
+
+	1. ALWAYS disconnect your circuit before plugging and unplugging components or changing things.
+	2. DO NOT draw more than 3.3V or less than 0V from a pin. Don't wire power directly to ground!
+	3. Do NOT draw more than 5mA from a pin! Use the included transistors to switch higher power things on and off.
+	4. Use Pull-down and Pull-up resistors with buttons.
+
+[What is a pull-up and pull-down resistor?](http://playground.arduino.cc/CommonTopics/PullUpDownResistor)
+
+Check out Pat's course CS107E, it has a [guide to basic electronics with the Raspberry Pi.](https://github.com/cs107e/courseware/blob/master/guides/electricity.md)
+
+**Step 4:** Install the SILABS USB to UART CP21xx driver, and try to make Python on your Raspberry Pi talk to you computer over Serial!
+
+1 	Install the [SILABS driver](https://www.silabs.com/products/interface/usbtouart/Pages/usb-to-uart-bridge.aspx)
+2	Plug the USB to UART adapter into your computer
+3	Install a serial console on your computer, like [CoolTerm](http://freeware.the-meiers.org/)
+4	[Write a Raspberry Pi program to send and receive serial data](http://www.instructables.com/id/Read-and-write-from-serial-port-with-Raspberry-Pi/), and see if it shows up on your laptop.
+
+**Ste
 
 ### OK I guess that's cool... What can I build?
 

@@ -127,7 +127,7 @@ The main programming languages I suggest is **Python** and **C**. Use Python for
 
 - Pat's CS107e [Raspberry Pi Course Guides](https://github.com/cs107e/courseware/blob/master/guides/README.md)
 	- For hardware, [understand basic electricity](https://github.com/cs107e/courseware/blob/master/guides/electricity.md)
-	- For using a transistor as a switch, [check this out.](https://electronics.stackexchange.com/questions/95089/switching-9v-using-a-npn-transistor-and-an-arduino)
+	- For using a transistor as a switch, [follow this TL;DR](https://electronics.stackexchange.com/questions/95089/switching-9v-using-a-npn-transistor-and-an-arduino) then read [this tutorial](https://www.techhouse.org/~dmorris/projects/tutorials/transistor.switches.pdf)
 	- Learn the (UNIX command line)[https://github.com/cs107e/courseware/blob/master/guides/unix.md]
 - Learn basic Python!
 	- [Instant Hacking with Python! Short, covers all the main stuff!](http://hetland.org/writing/instant-hacking.html)		- [Automate the boring stuff with Python! Lots of great useful things to build](https://automatetheboringstuff.com/)

@@ -23,6 +23,8 @@ Specifically, I gave you guys the newest Raspberry Pi 2! [Here's the Specs](http
 
 ### How do we get started?
 
+Raspberry Pi has a [quickstart guide here.](https://www.raspberrypi.org/help/quick-start-guide/) 
+
 **Step 1:** [Copy NOOBS onto the SD card I gave you.](https://www.raspberrypi.org/help/noobs-setup/)
 
 **Step 2:** 

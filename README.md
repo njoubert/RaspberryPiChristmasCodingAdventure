@@ -1,6 +1,6 @@
-# The Joubert Family's Christmas Coding Adventure!
+# Dieter, Pierre-Henri and Gleb's Christmas Coding Adventure!
 
-The Joubert family gets Raspberry Pi computers for Christmas, and embarks on a *Coding Adventure!*
+Dieter, Pierre-Henri and Gleb gets Raspberry Pi computers for Christmas, and embarks on a *Coding Adventure!*
 
 
 ### What the hell Niels, what kind of Christmas gift is this? Now what?

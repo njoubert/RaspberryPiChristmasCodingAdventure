@@ -149,6 +149,15 @@ The main programming languages I suggest is **Python** and **C**. Use Python for
 - [Write your own hardware driver for a GPIO pin](http://sysprogs.com/VisualKernel/tutorials/raspberry/leddriver/)
 
 
+### Configuring your Raspberry Pi for Maximum Productivity
+
+I suggest using the raspberry py without a screen, mouse or keyboard attached (except if that's part of what you're building, of course!). We can configure it as a productive develment environment that you can access from your normal computer!
+
+**Step 1** SSH into your Raspberry Pi:
+
+**Step 2** [Install Netatalk to share folders with your mac](https://www.raspberrypi.org/forums/viewtopic.php?f=36&t=26826)
+
+Now you can edit files using your favorite text editor right from your desktop!
 
 ### What's in the Box?
 	

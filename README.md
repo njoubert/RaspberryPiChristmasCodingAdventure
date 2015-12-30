@@ -74,7 +74,7 @@ Install the SILABS USB to UART CP21xx driver, and try to make Python on your Ras
 
 4	[Write a Raspberry Pi program to send and receive serial data](http://www.instructables.com/id/Read-and-write-from-serial-port-with-Raspberry-Pi/), and see if it shows up on your laptop.
 
-**Step 5: Mini Project: Transistors and Lasers! ** 
+**Step 5: Mini Project: Transistors and Lasers!** 
 
 Switch the Laser on and off with the Raspberry Pi using transistors!
 

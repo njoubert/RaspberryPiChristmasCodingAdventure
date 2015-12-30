@@ -8,9 +8,9 @@ This document gives you everything you need to get hacking with the Raspberry Pi
 | **Table of Contents** | 
 |-----------------------|
 |[What is a Raspberry Pi?](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#what-is-the-raspberry-pi)|
-|[Getting Started](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#how-do-we-get-started)|
+|[Step-By-Step Getting Started and Warm-up 15-minute Projects!](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#how-do-we-get-started)|
 |[What Can I Build?](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#ok-i-guess-thats-cool-what-can-i-build)|
-|[Resources, Guides, and Great Examples](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure/blob/master/README.md#learning-more-next-steps-guides-communities-and-sources-of-inspiration)|
+|[Next Steps: Guides, Communities, Example Projects and Sources of Inspiration](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure/blob/master/README.md#learning-more-next-steps-guides-communities-and-sources-of-inspiration)|
 |[What's in the Kit?](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#whats-in-the-box)|
 |[Useful Testing Tools and Debugging Procedures](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#useful-testing-tools)|
 

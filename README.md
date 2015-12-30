@@ -5,14 +5,14 @@ Dieter, Pierre-Henri and Gleb gets Raspberry Pi computers for Christmas, and emb
 This document gives you everything you need to get hacking with the Raspberry Pi!
 
 
-| **Table of Contents** | 
-|-----------------------|
-|[What is a Raspberry Pi?](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#what-is-the-raspberry-pi)|
-|[Step-By-Step Getting Started and Warm-up 15-minute Projects!](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#how-do-we-get-started)|
-|[What Can I Build?](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#ok-i-guess-thats-cool-what-can-i-build)|
-|[Next Steps: Guides, Communities, Example Projects and Sources of Inspiration](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure/blob/master/README.md#learning-more-next-steps-guides-communities-and-sources-of-inspiration)|
-|[What's in the Kit?](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#whats-in-the-box)|
-|[Useful Testing Tools and Debugging Procedures](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#useful-testing-tools)|
+| Section | **Table of Contents** | 
+|---------|-----------------------|
+|1|[What is a Raspberry Pi?](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#what-is-the-raspberry-pi)|
+|2|[Step-By-Step Getting Started and Warm-up 15-minute Projects!](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#how-do-we-get-started)|
+|3|[What Can I Build?](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#ok-i-guess-thats-cool-what-can-i-build)|
+|4|[Next Steps: Guides, Communities, Example Projects and Sources of Inspiration](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure/blob/master/README.md#learning-more-next-steps-guides-communities-and-sources-of-inspiration)|
+|5|[What's in the Kit?](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#whats-in-the-box)|
+|6|[Useful Testing Tools and Debugging Procedures](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#useful-testing-tools)|
 
 ### What the hell Niels, what kind of Christmas gift is this? Now what?
 
@@ -138,11 +138,15 @@ Here's some more ideas:
 
 **Great Communities:** A big part of building stuff is having inspiration and a community to draw from. Here's some great places that's fun to look at people's projects online:
 
-
 - [Raspberry Pi Blog](https://www.raspberrypi.org/blog/)
 - [Pimoroni Learn](http://learn.pimoroni.com/)
 - [Hackaday, both the blog and the whole site](https://hackaday.com/blog/)
 - [Dangerous Prototypes](http://dangerousprototypes.com/)
+
+**Badass Projects Built on Raspberry Pi:**
+
+- [FarmBot](https://hackaday.io/post/7593). Plants and waters a garden. Pairs a Raspberry Pi, Arduino, [stepper motor drivers](https://www.adafruit.com/products/1438)
+
 
 **Where to go to learn more?**
 
@@ -203,11 +207,4 @@ When you build stuff, you *really* need tools to test what you're doing. This av
 - Put "print" statements in your code and check that each part is working as expected.
 - Write your code in small chunks, and test every chunk.
 - Learn how to use a debugger to step through your code.
-
-
-### Useful Additional Add-ons:
-
-There's a bunch of additional stuff you can buy to do even more cool things.
-
-[FarmBot](https://hackaday.io/post/7593) is a great overall example! It pairs a Raspberry Pi and an Arduino, with a stepper motor driver ([line this one](https://www.adafruit.com/products/1438)) and a bunch of railings, to build a big robot that plants and waters your garden!
 

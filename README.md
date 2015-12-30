@@ -1,7 +1,15 @@
-# Dieter, Pierre-Henri and Gleb's Christmas Coding Adventure!
+# A Raspberry Pi Christmas Coding Adventure!
 
 Dieter, Pierre-Henri and Gleb gets Raspberry Pi computers for Christmas, and embarks on a *Coding Adventure!*
 
+This document gives you everything you need to get hacking with the Raspberry Pi!
+
+[What is a Raspberry Pi?](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#what-is-the-raspberry-pi)
+[Getting Started](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#how-do-we-get-started)
+[What Can I Build?](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#ok-i-guess-thats-cool-what-can-i-build)
+[Resources, Guides, and Great Examples]()
+[What's in the Kit?](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#whats-in-the-box)
+[Useful Testing Tools and Debugging Procedures](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#useful-testing-tools)
 
 ### What the hell Niels, what kind of Christmas gift is this? Now what?
 
@@ -123,18 +131,21 @@ Here's some more ideas:
 	- Pair it with an Arduino Mega and RAMPS shield, and build any 3-axis movable CNC machine!
 	- Build a 3D Printer
 
-### Cool communities / places to look
+### Learning More: Next Steps, Guides, Communities, and Sources of Inspiration
 
-A big part of building stuff is having inspiration and a community to draw from. Here's some great places that's fun to look at people's projects online:
+**Great Communities:** A big part of building stuff is having inspiration and a community to draw from. Here's some great places that's fun to look at people's projects online:
+
 
 - [Raspberry Pi Blog](https://www.raspberrypi.org/blog/)
 - [Pimoroni Learn](http://learn.pimoroni.com/)
 - [Hackaday, both the blog and the whole site](https://hackaday.com/blog/)
 - [Dangerous Prototypes](http://dangerousprototypes.com/)
 
-### CURRICULUM / RESOURCES:
+**Where to go to learn more?**
 
 The main programming languages I suggest is **Python** and **C**. Use Python for all the experiments and hacking, use C for things that needs to be fast or needs to run *without an operating system: bare meta right on the hardware!*
+
+Here's the **curriculum** I suggest you work through:
 
 - Pat's CS107e [Raspberry Pi Course Guides](https://github.com/cs107e/courseware/blob/master/guides/README.md)
 	- For hardware, [understand basic electricity](https://github.com/cs107e/courseware/blob/master/guides/electricity.md)

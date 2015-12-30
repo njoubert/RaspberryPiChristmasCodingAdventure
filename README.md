@@ -134,19 +134,7 @@ Here's some more ideas:
 	- Pair it with an Arduino Mega and RAMPS shield, and build any 3-axis movable CNC machine!
 	- Build a 3D Printer
 
-### Learning More: Next Steps, Guides, Communities, and Sources of Inspiration
-
-**Great Communities:** A big part of building stuff is having inspiration and a community to draw from. Here's some great places that's fun to look at people's projects online:
-
-- [Raspberry Pi Blog](https://www.raspberrypi.org/blog/)
-- [Pimoroni Learn](http://learn.pimoroni.com/)
-- [Hackaday, both the blog and the whole site](https://hackaday.com/blog/)
-- [Dangerous Prototypes](http://dangerousprototypes.com/)
-
-**Badass Projects Built on Raspberry Pi:**
-
-- [FarmBot](https://hackaday.io/post/7593). Plants and waters a garden. Pairs a Raspberry Pi, Arduino, [stepper motor drivers](https://www.adafruit.com/products/1438)
-
+### Learning More: Next Steps, Guides, and Resources 
 
 **Where to go to learn more?**
 
@@ -166,6 +154,26 @@ Here's the **curriculum** I suggest you work through:
 **More Advanced Topics:**
 
 - [Write your own hardware driver for a GPIO pin](http://sysprogs.com/VisualKernel/tutorials/raspberry/leddriver/)
+
+### Inspiring Projects, Great Communities, and Places to Frequent for Ideas!
+
+**Great Communities:** A big part of building stuff is having inspiration and a community to draw from. Here's some great places that's fun to look at people's projects online:
+
+- [Raspberry Pi Blog](https://www.raspberrypi.org/blog/)
+- [Pimoroni Learn](http://learn.pimoroni.com/)
+- [Hackaday, both the blog and the whole site](https://hackaday.com/blog/)
+- [Dangerous Prototypes](http://dangerousprototypes.com/)
+
+**Badass Projects Built on Raspberry Pi:**
+
+- [FarmBot](https://hackaday.io/post/7593). Plants and waters a garden. Pairs a Raspberry Pi, Arduino, [stepper motor drivers](https://www.adafruit.com/products/1438)
+
+**Cool hardware additions to the Raspberry Pi:**
+
+- [AdaFruit Trinket](http://learn.pimoroni.com/tutorial/raspberry-pi/raspberry-pi-programming-adafruit-trinket). Like a tiny arduino: good for PWM generation, analog sensor reading, and real-time programming.
+- OLED Displays like [this](http://www.amazon.com/gp/product/B00O2LLT30?keywords=raspberry%20pi%20oled&qid=1451470478&ref_=sr_1_1&sr=8-1) and [this](http://www.amazon.com/gp/product/B00ZOXWA7Y?psc=1&redirect=true&ref_=oh_aui_detailpage_o03_s00). Small, cheap, low-power, programmable displays.
+- High Fidelity Audio Out such as the [pHAT DAC](https://shop.pimoroni.com/products/phat-dac) for phat beats.
+- 
 
 ### What's in the Box?
 	

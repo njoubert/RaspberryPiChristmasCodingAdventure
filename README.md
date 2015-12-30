@@ -10,9 +10,10 @@ This document gives you everything you need to get hacking with the Raspberry Pi
 |1|[What is a Raspberry Pi?](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#what-is-the-raspberry-pi)|
 |2|[Step-By-Step Getting Started and Warm-up 15-minute Projects!](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#how-do-we-get-started)|
 |3|[What Can I Build?](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#ok-i-guess-thats-cool-what-can-i-build)|
-|4|[Next Steps: Guides, Communities, Example Projects and Sources of Inspiration](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure/blob/master/README.md#learning-more-next-steps-guides-communities-and-sources-of-inspiration)|
-|5|[What's in the Kit?](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#whats-in-the-box)|
-|6|[Useful Testing Tools and Debugging Procedures](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#useful-testing-tools)|
+|4|[Learning More: My Curriculum for Next Steps with Guides and Resources](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure/blob/master/README.md#learning-more-next-steps-guides-and-resources)|
+|5|[Inspiring Projects, Great Communities, and Awesome Additions to the Pi!](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure/blob/master/README.md#inspiring-projects-great-communities-and-places-to-frequent-for-ideas)|
+|6|[What's in the Kit?](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#whats-in-the-box)|
+|7|[Useful Testing Tools and Debugging Procedures](https://github.com/njoubert/RaspberryPiChristmasCodingAdventure#useful-testing-tools)|
 
 ### What the hell Niels, what kind of Christmas gift is this? Now what?
 

@@ -37,11 +37,17 @@ Specifically, I gave you guys the newest Raspberry Pi 2! [Here's the Specs](http
 
 Raspberry Pi has a [quickstart guide here.](https://www.raspberrypi.org/help/quick-start-guide/) 
 
-**Step 1:** [Copy NOOBS onto the SD card I gave you using your computer. Then stick it into your Raspberry Pi.](https://www.raspberrypi.org/help/noobs-setup/)
+**Step 1: Setup!** 
 
-**Step 2:** Plug your Raspberry Pi into a monitor, keyboard, mouse and power! Then follow the NOOBS installer to install Raspbian (a derivative of Debian Linux, just like Ubuntu)
+[Copy NOOBS onto the SD card I gave you using your computer. Then stick it into your Raspberry Pi.](https://www.raspberrypi.org/help/noobs-setup/)
 
-**Step 3:** Let's do some [Physical Computing on the Raspberry Pi!](https://www.raspberrypi.org/documentation/usage/gpio-plus-and-raspi2/) Try to make a little circuit with an LED, and [use python to turn it on and off using the GPIO pins!](http://openmicros.org/index.php/articles/94-ciseco-product-documentation/raspberry-pi/217-getting-started-with-raspberry-pi-gpio-and-python)
+**Step 2: Connect!** 
+
+Plug your Raspberry Pi into a monitor, keyboard, mouse and power! Then follow the NOOBS installer to install Raspbian (a derivative of Debian Linux, just like Ubuntu)
+
+**Step 3: Mini Project: LEDs and Buttons!** 
+
+Let's do some [Physical Computing on the Raspberry Pi!](https://www.raspberrypi.org/documentation/usage/gpio-plus-and-raspi2/) Try to make a little circuit with an LED, and [use python to turn it on and off using the GPIO pins!](http://openmicros.org/index.php/articles/94-ciseco-product-documentation/raspberry-pi/217-getting-started-with-raspberry-pi-gpio-and-python)
 
 Expand it to also read the value of buttons!
 
@@ -56,7 +62,9 @@ Expand it to also read the value of buttons!
 
 Check out Pat's course CS107E, it has a [guide to basic electronics with the Raspberry Pi.](https://github.com/cs107e/courseware/blob/master/guides/electricity.md)
 
-**Step 4:** Install the SILABS USB to UART CP21xx driver, and try to make Python on your Raspberry Pi talk to you computer over Serial!
+**Step 4: Serial Bridge from Laptop to RPi!** 
+
+Install the SILABS USB to UART CP21xx driver, and try to make Python on your Raspberry Pi talk to you computer over Serial!
 
 1 	Install the [SILABS driver](https://www.silabs.com/products/interface/usbtouart/Pages/usb-to-uart-bridge.aspx)
 
@@ -66,13 +74,17 @@ Check out Pat's course CS107E, it has a [guide to basic electronics with the Ras
 
 4	[Write a Raspberry Pi program to send and receive serial data](http://www.instructables.com/id/Read-and-write-from-serial-port-with-Raspberry-Pi/), and see if it shows up on your laptop.
 
-**Step 5:** Switch the Laser on and off with the Raspberry Pi using transistors!
+**Step 5: Mini Project: Transistors and Lasers! ** 
+
+Switch the Laser on and off with the Raspberry Pi using transistors!
 
 The laser wants a higher voltage and higher current supply than the Raspberry Pi can provide. This is where you can use the transistor: The transistor is just a switch. A switch you can control electronically. By switching low power on the "base" pin, you can control whether high power flows through the other pins.
 
 Follow [This article on how to switch 9v using a NPN transistor](https://electronics.stackexchange.com/questions/95089/switching-9v-using-a-npn-transistor-and-an-arduino) and hook up a higher voltage to your laser!
 
-**Step 6:** Drive a Servo with PWM!
+**Step 6: Mini Project: Servos and why you also need an Arduino!** 
+
+Drive a Servo with PWM!
 
 [Make the servo turn left and right from Python!](http://razzpisampler.oreilly.com/ch05.html)
 
@@ -82,7 +94,9 @@ You can do better than python by using this [ServoBlaster Kernel Module](https:/
 
 The BEST you can do is to use hardware PWM. RaspberryPi has *one* dedicated little chip just to make PWM signals. This tutorial explains how to [use WiringPi to access this port.](http://raspi.tv/2013/how-to-use-wiringpi2-for-python-with-pull-ups-or-pull-downs-and-pwm)
 
-**Step 7:** Read the rest of this page, and check out the "Cool communities and places to look" or google for "Raspberry Pi projects"!
+**Step 7: Start Designing Your Own Stuff, or Get Insired By Others!** 
+
+Read the rest of this page, and check out the "Cool communities and places to look" or google for "Raspberry Pi projects"!
 
 ### OK I guess that's cool... What can I build?
 

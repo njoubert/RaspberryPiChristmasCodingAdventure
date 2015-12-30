@@ -128,6 +128,7 @@ Here's some more ideas:
 A big part of building stuff is having inspiration and a community to draw from. Here's some great places that's fun to look at people's projects online:
 
 - [Raspberry Pi Blog](https://www.raspberrypi.org/blog/)
+- [Pimoroni Learn](http://learn.pimoroni.com/)
 - [Hackaday, both the blog and the whole site](https://hackaday.com/blog/)
 - [Dangerous Prototypes](http://dangerousprototypes.com/)
 

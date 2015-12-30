@@ -182,6 +182,8 @@ Here's the **curriculum** I suggest you work through:
 **Badass Projects Built on Raspberry Pi:**
 
 - [FarmBot](https://hackaday.io/post/7593). Plants and waters a garden. Pairs a Raspberry Pi, Arduino, [stepper motor drivers](https://www.adafruit.com/products/1438)
+- [Pi Tablet](https://learn.adafruit.com/7-portable-raspberry-pi-multitouch-tablet/overview). A 7" multitouch home-made tablet!
+- [Pi-Top Laptop](http://www.pi-top.com/). A hackable laptop - slide open the top to reveal a raspberry pi and breadboard space.
 
 **Cool hardware additions to the Raspberry Pi:**
 

@@ -178,6 +178,7 @@ Here's the **curriculum** I suggest you work through:
 - [Pimoroni Learn](http://learn.pimoroni.com/)
 - [Hackaday, both the blog and the whole site](https://hackaday.com/blog/)
 - [Dangerous Prototypes](http://dangerousprototypes.com/)
+- [ElectroDragon Prototyping Parts](http://www.electrodragon.com/)
 
 **Badass Projects Built on Raspberry Pi:**
 

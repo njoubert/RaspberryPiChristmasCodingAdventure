@@ -179,6 +179,7 @@ Here's the **curriculum** I suggest you work through:
 - [Hackaday, both the blog and the whole site](https://hackaday.com/blog/)
 - [Dangerous Prototypes](http://dangerousprototypes.com/)
 - [ElectroDragon Prototyping Parts](http://www.electrodragon.com/)
+- [Wolfgang Klerk's Arduino and Raspberry Pi Projects](https://wolfgangklenk.wordpress.com/)
 
 **Badass Projects Built on Raspberry Pi:**
 

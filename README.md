@@ -175,11 +175,18 @@ Here's the **curriculum** I suggest you work through:
 **Great Communities:** A big part of building stuff is having inspiration and a community to draw from. Here's some great places that's fun to look at people's projects online:
 
 - [Raspberry Pi Blog](https://www.raspberrypi.org/blog/)
+- [Adafruit Learn](https://learn.adafruit.com/)
 - [Pimoroni Learn](http://learn.pimoroni.com/)
+- [Wolfgang Klerk's Arduino and Raspberry Pi Projects](https://wolfgangklenk.wordpress.com/)
 - [Hackaday, both the blog and the whole site](https://hackaday.com/blog/)
 - [Dangerous Prototypes](http://dangerousprototypes.com/)
+
+**Sources of Hardware and Software:** Where can you browse around and buy all the cool hardware parts for your awesome project?
+
+- [AdaFruit Store](https://www.adafruit.com/categories)
+- [Seeed Studio](http://www.seeedstudio.com/depot/)
 - [ElectroDragon Prototyping Parts](http://www.electrodragon.com/)
-- [Wolfgang Klerk's Arduino and Raspberry Pi Projects](https://wolfgangklenk.wordpress.com/)
+
 
 **Badass Projects Built on Raspberry Pi:**
 

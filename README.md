@@ -183,10 +183,11 @@ Here's the **curriculum** I suggest you work through:
 
 **Sources of Hardware and Software:** Where can you browse around and buy all the cool hardware parts for your awesome project?
 
+- [SparkFun Store](https://www.sparkfun.com/)
 - [AdaFruit Store](https://www.adafruit.com/categories)
 - [Seeed Studio](http://www.seeedstudio.com/depot/)
 - [ElectroDragon Prototyping Parts](http://www.electrodragon.com/)
-
+- [NavSpark GPS Modules](http://www.navspark.com.tw/)
 
 **Badass Projects Built on Raspberry Pi:**
 

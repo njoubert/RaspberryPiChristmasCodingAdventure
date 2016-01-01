@@ -189,6 +189,9 @@ Here's the **curriculum** I suggest you work through:
 - [ElectroDragon Prototyping Parts](http://www.electrodragon.com/)
 - [NavSpark GPS Modules](http://www.navspark.com.tw/)
 
+- [Adafruit Python GPIO Library](https://github.com/adafruit/Adafruit_Python_GPIO)
+ 
+
 **Badass Projects Built on Raspberry Pi:**
 
 - [FarmBot](https://hackaday.io/post/7593). Plants and waters a garden. Pairs a Raspberry Pi, Arduino, [stepper motor drivers](https://www.adafruit.com/products/1438)

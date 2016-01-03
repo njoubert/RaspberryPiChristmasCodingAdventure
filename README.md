@@ -153,7 +153,7 @@ Here's some more ideas:
 
 **Where to go to learn more?**
 
-The main programming languages I suggest is **Python** and **C**. Use Python for all the experiments and hacking, use C for things that needs to be fast or needs to run *without an operating system: bare meta right on the hardware!*
+The main programming languages I suggest is **Python** and **C**. Use Python for all the experiments and hacking, use C for things that needs to be fast or needs to run *without an operating system: bare metal right on the hardware!*
 
 Here's the **curriculum** I suggest you work through:
 

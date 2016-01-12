@@ -160,6 +160,7 @@ Here's the **curriculum** I suggest you work through:
 - Pat's CS107e [Raspberry Pi Course Guides](https://github.com/cs107e/courseware/blob/master/guides/README.md)
 	- For hardware, [understand basic electricity](https://github.com/cs107e/courseware/blob/master/guides/electricity.md)
 	- For using a transistor as a switch, [follow this TL;DR](https://electronics.stackexchange.com/questions/95089/switching-9v-using-a-npn-transistor-and-an-arduino) then read [this tutorial](https://www.techhouse.org/~dmorris/projects/tutorials/transistor.switches.pdf)
+	- Learn basic electronics with [Make Magazine's Awesome Video Course](http://makezine.com/2016/01/11/take-a-video-crash-course-in-beginner-electronics/)
 	- Learn the (UNIX command line)[https://github.com/cs107e/courseware/blob/master/guides/unix.md]
 - Learn basic Python!
 	- [Instant Hacking with Python! Short, covers all the main stuff!](http://hetland.org/writing/instant-hacking.html)		- [Automate the boring stuff with Python! Lots of great useful things to build](https://automatetheboringstuff.com/)

@@ -166,6 +166,8 @@ Here's the **curriculum** I suggest you work through:
 	- [Instant Hacking with Python! Short, covers all the main stuff!](http://hetland.org/writing/instant-hacking.html)		- [Automate the boring stuff with Python! Lots of great useful things to build](https://automatetheboringstuff.com/)
 	- [A Gentle Introduction to Python Coding on the Raspberry Pi](http://davidbriddock.blogspot.com/p/learn-python.html)
 	- [Basic hardware programming with Python](http://makezine.com/projects/tutorial-raspberry-pi-gpio-pins-and-python/)
+- Once you're ready... Build your [*OWN OPERATING SYSTEM*!!](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
+
 
 **More Advanced Topics:**
 
